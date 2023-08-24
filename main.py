@@ -8,7 +8,7 @@ prompt_file_path = "./prompts/1.txt"
 with open(prompt_file_path, "r") as f:
     prompt = f.read()
 
-article_file_path = "./articles/2.txt"
+article_file_path = "./articles/1.txt"
 with open(article_file_path, "r") as f:
     article = f.read()
 
@@ -17,7 +17,7 @@ def create_summary(article):
     response = openai.ChatCompletion.create(
         model = "gpt-4",
         messages = [
-            {"role": "user", "content": "Please summarize the following article: \n\n" + article},
+            {"role": "user", "content": "Please summarize the following article in Japanese: \n\n" + article},
         ],
         temperature = 1,
         max_tokens = 256,
@@ -31,9 +31,9 @@ def answer_question(question_from_gpt, article):
     response = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
-            {"role": "user", "content": "Please answer briefly the following question by reading the article: \n\n" + question_from_gpt + "\n\n article: \n\n" + article},
+            {"role": "user", "content": "Please answer the following question briefly by reading the article in Japanese.: \n\n" + question_from_gpt + "\n\n article: \n\n" + article},
         ],
-        temperature=0,
+        temperature=1,
         max_tokens=256,
     )
 
@@ -79,13 +79,16 @@ def get_first_question(summary, article):
 def main():
     history = []
     summary = create_summary(article)
-    print("summary: " + summary)
+    print("概要: " + summary)
+    print()
     question_from_gpt = get_first_question(summary, article)
-    print("first question: " + question_from_gpt)
+    print("生徒(GPT): " + question_from_gpt)
+    print()
 
     while True:
         answer = answer_question(question_from_gpt, article)
-        print("answer: " + answer)
+        print("先生(User): " + answer)
+        print()
 
         input("Press Enter to continue...")
 
@@ -101,7 +104,7 @@ def main():
         )
 
         response_text = response.choices[0].message.content
-        print("response: " + response_text)
+        print("生徒(GPT): " + response_text)
 
         history.append({"role": "user", "content": answer})
         history.append({"role": "assistant", "content": response_text})
