@@ -1,17 +1,122 @@
-DOPPLER EFFECT LESSON
-Background
-Almost everyone has experienced the Doppler effect, though perhaps without knowing what caused it. For example, imagine you are stand- ing on a street corner as a fire truck approaches with its siren blaring. The perceived pitch of the siren will sound higher as it comes closer to you. Then, as it passes by, the pitch will sound lower. This is one of many examples of the Doppler effect: The change in how sounds are perceived due to movement.
+What if we could make our body’s old or sick cells act young
+again? Surprisingly, the bacteria that cause leprosy may
+show us how. Previously, we discovered that infecting cells
+with leprosy bacteria in a laboratory dish “reprogrammed”
+the cells back to an immature state. The cells may then be
+able to produce many different types of cells in the body –
+and maybe even regenerate an organ.
+To test this in an actual animal, we infected nine-banded
+armadillos with leprosy bacteria. We compared their livers to
+the livers of uninfected armadillos. The livers of armadillos
+infected with leprosy were larger than those of uninfected
+armadillos. Importantly, these larger livers were healthy,
+with no signs of damage. We performed genetic analyses
+on the liver cells to determine which genes were active. Our
+results show that leprosy infection “reprograms” adult liver
+cells to make them resemble immature liver cells. Maybe
+someday we can adapt this natural process to regrow aging
+and damaged livers in humans. 
 
-Sound Waves
-Why does this change occur? Movement changes the way different characteristics of sound waves are perceived, and therefore, how the sound is perceived. Sound waves have two primary characteristics: fre- quency and wavelength. As we will see, movement causes changes in how we perceive the frequency and length of sound waves, which ulti- mately impact how we perceive the sound. First, let us briefly go over each of these characteristics.
+Sometimes people need a new organ because disease or
+injury has damaged one of theirs. Unfortunately, waiting for
+a transplant organ from an appropriate donor can take a
+really long time. Imagine needing a new heart but having
+to wait for years! What if they could just grow a new organ
+instead?
+Scientists are interested in learning how to regenerate
+organs for people. They have tried different techniques in
+the laboratory to encourage organs to grow back. However,
+there are major safety concerns. These approaches often
+cause scars or tumor growth.
+Previously, we made a surprising discovery. We infected
+nerve cells from adult mice with the bacteria that causes
+leprosy (Fig. 1). Leprosy is a contagious disease that affects
+the nerves, skin, eyes, and nose. The bacteria caused the
+cells to return to a more immature state – instead of looking
+like adult nerve cells, they looked more like stem cells.
+Stem cells are immature cells that don’t have a specific role
+in the body yet. When an organism is forming, these cells
+can become any type of cell needed for a given organ. Some
+stem cells are also present in adult organs. Usually, they are
+inactive. When they sense damage to tissues, they activate
+to repair it. But as we get older, our stem cells have a harder
+time repairing our organs.
 
-Wave Frequency
-Wave frequency refers to the number of waves passing through a given point during 1 s. It corresponds to how we perceive the pitch of a sound: If waves occur at a high frequency, they will produce a high pitch; if waves occur at a low frequency, they will produce a low pitch. For example, the cry of a baby has a relatively high pitch, whereas the sound of thunder has a relatively low pitch. The reason these two sounds are perceived differently is because they have different wave frequencies. Figures 1 and 2 below illustrate the difference between low and high frequency sound waves.
+Turning adult cells into stem cells could be a way to build
+a new, functioning organ or make an older organ young
+again. That’s exciting! But those previous experiments with
+leprosy bacteria were on mouse cells in a laboratory dish.
+We wondered if the same process would occur in an actual
+living animal.
 
-Wavelength
-Closely related to wave frequency is wavelength. Wavelength refers to the distance between adjacent waves (see figures above). As you might expect, longer waves require more time to travel a given distance than do shorter waves. Consequently, longer sound waves have a lower fre- quency and a lower pitch. On the other hand, short sound waves have a higher frequency and higher pitch.
+We chose to look at leprosy infection in nine-banded
+armadillos. Armadillos are mammals native to the southwest
+U.S.
+We focused on potential regeneration of the liver. This
+organ has many functions, including removing toxins from
+the body’s blood supply and maintaining healthy blood sugar
+levels. Unfortunately, the liver is also a target for bacterial
+growth. The liver has an astonishing ability to regenerate on
+its own in healthy people. However, we do not know how to
+trigger liver renewal in patients who need it most – those with 
+liver disease or injury.
+We infected armadillos with the leprosy bacteria. After 10–30
+months of infection, we removed their livers and compared
+them to livers from uninfected armadillos. We looked at
+the liver cells under high-powered microscopes. We also
+performed analyses on the cells’ DNA to identify which genes
+were active. We wanted to see if the pattern of gene activity
+in the cells looked more like adult liver cells or immature stem
+cells.
 
-How the Doppler Effect Works
-The Doppler effect is about movement influencing how the frequency and length of sound waves are perceived. To illustrate this, imagine a bug jiggling on the surface of a pond. If the bug is stationary, the waves on the surface of the water around it will be at the same frequency and length in all directions, as in Figure 3 below. Now suppose that the bug begins moving to the right. The waves it produces become shorter and more frequent to the right of the bug and longer and less frequent to the left of the bug, as shown in Figure 4 below.
-Now, let us relate the bug example to how the Doppler effect occurs in sound waves. Imagine again that a fire truck is approaching with its siren blaring, as illustrated in Figure 5 below. As the fire truck approaches, the sound waves between the fire truck and the girl becomeshorterandmorefrequent, resultingin ahigherperceivedpitch. As the fire truck drives by, the sound waves between the fire truck and the girl are longer and less frequent. As a result, the girl perceives the pitch as getting lower. This is because the movement of the fire truck causes changes in how the sound is perceived. This influence of move- ment on perceived sound is the core principle of the Doppler effect.
+We calculated the ratio of each armadillo’s liver to its total
+body weight. We found that the livers of armadillos infected
+with leprosy bacteria were about 50% larger than those of
+uninfected armadillos (Fig. 2).
+Even though the infected livers had grown, they were
+otherwise normal. Infected livers had the same anatomy
+as uninfected livers. Importantly, the enlarged livers were
+healthy and functional! They showed no signs of scarring or
+tumor growth.
+
+Next, we measured gene activity in infected and uninfected
+livers. We found several signs that the liver cells of infected
+armadillos were “reprogrammed” to act like stem cells. The
+gene activity patterns of infected liver cells were similar to
+those of younger animals’ livers and developing human livers.
+In infected armadillos, genes associated with growth and
+development became active. Some of these genes are usually
+active when the liver is forming in a developing organism. At the
+same time, genes associated with aging were suppressed.
+
+Our results suggest that leprosy bacteria “reprogram” liver
+cells and return them to a stem cell–like or more “youthful”
+state. Once in this state, the cells can encourage new liver
+cells to mature and grow new liver tissue. This leads to liver
+growth.
+We think that the bacteria take advantage of the natural
+regenerative ability of the liver to increase the organ’s size.
+This gives the bacteria more cells to infect.
+
+We cannot say for sure if these findings would work in human
+livers. And we are not about to infect any people with leprosy
+bacteria! But figuring out how armadillos’ livers keep growing
+under the influence of leprosy bacteria – without forming
+scars or tumors – might help scientists better understand
+the mechanisms of regeneration in the human liver. If we
+could harness this ability, we might someday be able to help
+people with liver disease regenerate healthy livers.
+
+Leprosy has affected people since ancient times. Today, the
+disease is rare in many places, including the United States.
+However, it still occurs in more than 120 countries. Currently,
+about 208,000 people worldwide are infected with leprosy
+every year, most of them in Brazil, Africa and Asia.
+Fortunately, you don’t have to worry too much about
+catching it. Leprosy is not very contagious – social distancing 
+is enough to stop its spread from person to person. Plus,
+most people have natural immunity to it.
+If leprosy is treated early, it is curable. Still, you shouldn’t
+handle any wild armadillos! Wild animals of any kind may
+carry diseases that can spread to humans. 
 

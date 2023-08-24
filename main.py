@@ -12,6 +12,7 @@ article_file_path = "./articles/2.txt"
 with open(article_file_path, "r") as f:
     article = f.read()
 
+
 def create_summary(article):
     response = openai.ChatCompletion.create(
         model = "gpt-4",
@@ -40,7 +41,6 @@ def answer_question(question_from_gpt, article):
     return response_text
 
 
-
 def is_question(response_from_gpt):
     response = openai.ChatCompletion.create(
         model="gpt-4",
@@ -58,7 +58,6 @@ def is_question(response_from_gpt):
         return True
     else:
         return False
-
 
 
 def get_first_question(summary, article):
